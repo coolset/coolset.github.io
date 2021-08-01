@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>最快速的搭建绚丽的个人博客</title>
+      <link href="/2021/08/01/%E6%9C%80%E5%BF%AB%E9%80%9F%E7%9A%84%E6%90%AD%E5%BB%BA%E7%BB%9A%E4%B8%BD%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2021/08/01/%E6%9C%80%E5%BF%AB%E9%80%9F%E7%9A%84%E6%90%AD%E5%BB%BA%E7%BB%9A%E4%B8%BD%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="网站搭建"><a href="#网站搭建" class="headerlink" title="网站搭建"></a>网站搭建</h1><h2 id="安装的需要编辑软件"><a href="#安装的需要编辑软件" class="headerlink" title="安装的需要编辑软件"></a>安装的需要编辑软件</h2><ul><li>Typora  </li><li>node.js</li></ul><p>个人建议在国内上面下载,不要去官网下载会很慢</p><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p><img src="C:\Users\Administrator\Desktop\博客‘\苏先生.jpg"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> web </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2021/07/30/hello-world/"/>
       <url>/2021/07/30/hello-world/</url>
@@ -17,6 +36,83 @@
     
   
   
+    
+    
+    <entry>
+      <title>404</title>
+      <link href="/404.html"/>
+      <url>/404.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>contact</title>
+      <link href="/contact/index.html"/>
+      <url>/contact/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>导航</title>
+      <link href="/navigate/index.html"/>
+      <url>/navigate/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>friends</title>
+      <link href="/friends/index.html"/>
+      <url>/friends/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>你好，Hexo</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[<p>这是我的第一篇博客，你好，Hexo。</p>]]></content>
+      
+    </entry>
+    
     
   
 </search>

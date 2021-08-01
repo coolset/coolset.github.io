@@ -6,7 +6,7 @@
   <link href="http://coolset.github.io/atom.xml" rel="self"/>
   
   <link href="http://coolset.github.io/"/>
-  <updated>2021-07-30T07:35:26.333Z</updated>
+  <updated>2021-08-01T14:18:25.471Z</updated>
   <id>http://coolset.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>最快速的搭建绚丽的个人博客</title>
+    <link href="http://coolset.github.io/2021/08/01/%E6%9C%80%E5%BF%AB%E9%80%9F%E7%9A%84%E6%90%AD%E5%BB%BA%E7%BB%9A%E4%B8%BD%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://coolset.github.io/2021/08/01/%E6%9C%80%E5%BF%AB%E9%80%9F%E7%9A%84%E6%90%AD%E5%BB%BA%E7%BB%9A%E4%B8%BD%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2021-07-31T16:29:06.000Z</published>
+    <updated>2021-08-01T14:18:25.471Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="网站搭建"><a href="#网站搭建" class="headerlink" title="网站搭建"></a>网站搭建</h1><h2 id="安装的需要编辑软件"><a href="#安装的需要编辑软件" class="headerlink" title="安装的需要编辑软件"></a>安装的需要编辑软件</h2><ul><li>Typora  </li><li>node.js</li></ul><p>个人建议在国内上面下载,不要去官网下载会很慢</p><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p><img src="C:\Users\Administrator\Desktop\博客‘\苏先生.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;网站搭建&quot;&gt;&lt;a href=&quot;#网站搭建&quot; class=&quot;headerlink&quot; title=&quot;网站搭建&quot;&gt;&lt;/a&gt;网站搭建&lt;/h1&gt;&lt;h2 id=&quot;安装的需要编辑软件&quot;&gt;&lt;a href=&quot;#安装的需要编辑软件&quot; class=&quot;headerlink&quot; title=</summary>
+      
+    
+    
+    
+    
+    <category term="web" scheme="http://coolset.github.io/tags/web/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
